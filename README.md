@@ -2,7 +2,7 @@ The Out the Window (OTW) dataset is a crowdsourced activity dataset containing 5
 
 ## Download
 
-[otw.tar.gz (48GB)](http://bit.ly/out_the_window)
+[otw.tar.gz (48GB)](https://www.dropbox.com/scl/fi/6w2t471urhch3bmo5dl4s/otw.tar.gz?rlkey=svk8xgcqylydiiqrm9qevqcgc)
 
 ## Visualization
 
